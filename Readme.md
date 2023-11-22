@@ -10,3 +10,8 @@ La estructura del archivo .csv tiene que ser en formato separado por comas:
 
 Ejemplo: 
 > 5555555555,google.com
+
+Se recomienda activar el entorno virtual mediante el comando
+```bash
+.env/Scripts/activate 
+```

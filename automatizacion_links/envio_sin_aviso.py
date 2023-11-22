@@ -1,7 +1,3 @@
-# import pywhatkit
-
-# pywhatkit.sendwhatmsg_instantly("+525529156302", "hello", 15, True, 4)
-
 import csv
 import pywhatkit as kit
 import pandas as pd

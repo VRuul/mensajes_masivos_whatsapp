@@ -1,4 +1,4 @@
-# Envio masivo de mensajes a traves de whatsapp automatico
+# Envio masivo de mensajes a traves de whatsapp automatico con la libreria "pywhatkit"
 
 El archivo ``envio_con_aviso`` envia los mensajes a los numeros de telefono que se encuentran en el archivo .csv y al finalizar de enviar el mensaje muestra un mensaje emergente de que se concluyo con el proceso.
 
